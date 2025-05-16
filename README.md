@@ -56,7 +56,8 @@ Here’s how the game looks:
 
 #### 4x4 Board - Initial Moves
 
-![4x4 Draw Example](./output_screen/start.png)
+<img width="735" alt="Screenshot 2025-05-16 at 11 00 43 PM" src="https://github.com/user-attachments/assets/836e7d1d-1ad7-485f-a6f7-7b117f0a8b17" />
+
 
 .
 
@@ -66,8 +67,8 @@ Here’s how the game looks:
 
 #### 4x4 Board - Game Result: Draw
 
-![4x4 Draw Example](./output_screen/result.png)
 
+<img width="740" alt="Screenshot 2025-05-16 at 11 02 15 PM" src="https://github.com/user-attachments/assets/c4c1db21-9dfc-49c1-8606-bc572722c873" />
 
 
 ### 🛠 Customization
